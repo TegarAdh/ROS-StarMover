@@ -1,0 +1,8 @@
+prefix=/home/dittz-ubuntu/kel1/devel
+
+Name: imu_visualizer
+Description: Description of imu_visualizer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

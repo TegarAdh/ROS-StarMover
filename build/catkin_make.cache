@@ -1,0 +1,2 @@
+imu_visualizer
+-DCATKIN_DEVEL_PREFIX=/home/dittz-ubuntu/kel1/devel -DCMAKE_INSTALL_PREFIX=/home/dittz-ubuntu/kel1/install -G Unix Makefiles
